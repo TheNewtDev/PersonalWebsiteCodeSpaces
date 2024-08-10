@@ -1,12 +1,12 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I'm a Full Stack Developer at Alight Solutions, LLC. I enjoy designing Web Apps from top to bottom and troubleshooting complex problems. However, I also enjoy setting the keyobard down and enjoying the wondrous outdoors. ",
   "skills": [
     "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Agile Methodologies",
+    "SOLID Principles",
+    "Automated Testing",
+    ".NET Web Applications",
+    "Data Management"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "Success is the sum of small efforts - repeated day in and day out. -Robert Collier"
 }

@@ -1,17 +1,17 @@
 [
   {
     "name": "home",
-    "src": "images/woman-with-tablet.jpg",
-    "alt": "woman with glasses holding a tablet"
+    "src": "images/AntelopeIslandSunset16201080.jpg",
+    "alt": "Antelope Island Sunset in Utah"
   },
   {
     "name": "about",
-    "src": "images/motion-background.jpg",
-    "alt": "gray abstract background"
+    "src": "images/GlacierParkScenicPoint1920950.jpg",
+    "alt": "Glacier Park Scenic Point Hike in Montana"
   },
   {
     "name": "portfolio",
-    "src": "images/design-desk.jpeg",
-    "alt": "desktop with books and laptop"
+    "src": "images/SCHSAbandoned24001600.jpg",
+    "alt": "SCHS Abandoned High School Door Slightly Ajar"
   }
 ]
